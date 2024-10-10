@@ -1,8 +1,8 @@
-﻿#include <iostream>
-#include "Complex.h"
-using namespace std;
+﻿
+#include <iostream>
 
-int main() {
-	
-	return 0;
+int main()
+{
+    std::cout << "Hello World!\n";
 }
+
